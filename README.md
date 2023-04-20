@@ -5,4 +5,6 @@ This tutorial foucses mainly on Git and using GitHub as its remote.
 
 This repository is built step by step in the tutorial.
 
+Just add a new line.
+
 It now includes sreps for GitHub
